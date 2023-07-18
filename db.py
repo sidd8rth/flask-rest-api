@@ -1,2 +1,1 @@
-stores = {}
-items = {}
+from flask_sqlalchemy import SQLAlchemy
